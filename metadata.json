@@ -1,0 +1,8 @@
+{
+  "name": "Clario - Decentralized Tutoring Marketplace",
+  "description": "A crypto-first, reputation-based marketplace for online learning connecting students with human and AI tutors.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
