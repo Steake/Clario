@@ -13,19 +13,27 @@
 
 ---
 
+## 🏷️ Keywords / Topics
+
+`tutoring` · `marketplace` · `crypto` · `eqbsl` · `trust` · `reputation` · `on-chain` · `web3` · `typescript` · `react` · `tailwind` · `defi` · `settlement`
+
+---
+
 ## 🌟 Overview
 
-Clario is a revolutionary decentralized marketplace connecting students with both **human tutors** and **AI-powered tutors**. Built on blockchain technology, it enables secure, crypto-based payments with built-in escrow protection and on-chain reputation tracking via EQBSL.
+Clario is a crypto-native tutoring marketplace where tutors and students transact with crypto, build reputation on-chain via [EQBSL](https://github.com/Steake/EQBSL), and learn instantly. It features an admin dashboard for treasury and trust management, EQBSL parameter governance, and a settlement layer.
 
 ### ✨ Key Features
 
-- 🔐 **Crypto-First Payments** - Pay securely with cryptocurrency (ETH)
+- 🔐 **Crypto Payments** - Pay securely with cryptocurrency (ETH)
 - 🤝 **Smart Contract Escrow** - Funds held securely until lesson completion
+- 📊 **On-Chain Reputation via EQBSL** - Build and verify trust scores on the blockchain using the EQBSL framework
+- ✅ **Tutor Verification** - Verified tutor profiles with on-chain credibility signals
+- 📅 **Session Management** - Full booking, scheduling, and live lesson workflow
+- 🏦 **Admin Treasury Console** - Admin dashboard for treasury oversight, trust management, and EQBSL parameter governance
 - 🤖 **Human & AI Tutors** - Choose from verified human experts or AI agents
-- 📊 **On-Chain Reputation** - Build and verify reputation on the blockchain
 - 💼 **Multi-Role Support** - Student, Tutor, and Admin dashboards
 - 🎥 **Integrated Classroom** - Built-in video lesson rooms
-- 💰 **Crypto Wallet** - Manage funds, view transactions, and track escrow
 - ⚖️ **Dispute Resolution** - Admin-managed dispute system for fair outcomes
 - 🌓 **Dark Mode** - Beautiful UI with light/dark theme support
 
@@ -244,7 +252,16 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📝 License
 
-This project is part of the AI Studio template system. See the original template at [google-gemini/aistudio-repository-template](https://github.com/google-gemini/aistudio-repository-template).
+This project is licensed under the [MIT License](LICENSE) — © 2025-2026 Oliver C. Hirst.
+
+---
+
+## 🔗 Related Projects
+
+- **<a href="https://github.com/Steake/EQBSL">EQBSL</a>** — The trust-as-ledgered-state framework powering Clario's reputation system. TypeScript/Angular.
+- **<a href="https://github.com/Steake/BitCell">BitCell</a>** — Consensus through cellular automaton warfare using EBSL. Rust.
+- **<a href="https://github.com/Steake/Reputation-Gated-Airdrop">Reputation-Gated-Airdrop</a>** — ZKML-powered Sybil-resistant airdrops built on EBSL trust scores. Solidity + Jupyter.
+- **<a href="https://github.com/Steake/shannon-uncontained">shannon-uncontained</a>** — Agentic pen-testing with EQBSL epistemic bookkeeping. JavaScript.
 
 ---
 
